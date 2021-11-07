@@ -39,7 +39,7 @@ This is for ***additional task #2 to create a report by using Mochawesome as a r
 1. Login to Arthur staging with provided username/password
 1. Validate that user can login and home elements display correctly
 
-## Scenario 2: Add a property with a multiple rentable units 
+### Scenario 2: Add a property with a multiple rentable units 
 [/cypress/integration/property_specs.js](https://github.com/ginkz182/arthur/blob/main/cypress/integration/property_specs.js)
 
 1. Login to Arthur staging
@@ -52,7 +52,7 @@ This is for ***additional task #2 to create a report by using Mochawesome as a r
 1. Verify property successfully added
 1. Verify added property in Properties menu
 
-## Scenario 3: Add a task related to above property
+### Scenario 3: Add a task related to above property
 [/cypress/integration/task_specs.js](https://github.com/ginkz182/arthur/blob/main/cypress/integration/task_specs.js)
 
 1. Login to Arthur staging
