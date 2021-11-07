@@ -41,12 +41,6 @@ describe('Task Test Specs', () => {
     })
 
     it('Add a task related to created property ', () => {
-
-        // Data for testing purpose
-        // testData.propertyName = 'Cypress Property 1636202582765'
-        // testData.taskDescription = 'Task from Cypress 1636267454914'
-        // cy.visit('https://staging.arthuronline.co.uk/robottester/tasks/view/1102843')
-
         goToTasks()
         clickAddTask()
 

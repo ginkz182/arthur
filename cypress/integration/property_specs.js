@@ -54,10 +54,6 @@ describe('Propertyies Test Specs', () => {
         cy.contains(testData.propertyName).should('be.visible')
         cy.contains(testData.unitCount + " units have been added").should('be.visible')
 
-        // for testing purpose
-        // comment out if needed
-        // testData.propertyName = 'Cypress Property 1636198736465'
-
         // Re-click Property page and search for added property
         gotoProperties()
         searchPropertyName(testData.propertyName)
