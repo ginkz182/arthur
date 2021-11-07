@@ -1,0 +1,19 @@
+{
+  "propertyName": "Cypress Property ",
+  "unitCount": 2,
+  "unitType": "Flat",
+  "unitOwner": "Owner 1 - Sansiri",
+  "manager": "Cypress Tester 1",
+  "agent": "Real Agency",
+  "propertyAddress1": "11/11",
+  "propertyAddress2": "Cypress Road",
+  "propertyPostCode": "10000",
+  "propertyCity": "London",
+  "propertyCounty": "County",
+
+  "taskDescription": "Task from Cypress ",
+  "taskAssign": "Cypress Tester 1",
+  "taskType": "Deposit",
+  "taskEmergency": "No",
+  "taskAttachment": "contract.jpg"
+}

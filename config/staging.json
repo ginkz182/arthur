@@ -1,0 +1,19 @@
+{
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "overwrite": false,
+        "html": false,
+        "json": true,
+        "reportDir": "cypress/reports/mochawesome"
+    },
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "env": {
+        "loginurl": "https://staging.arthuronline.co.uk/login?X-MODE=QA-eW91LXdpbi1ub3RoaW5nCg",
+        "apiBase": "https://staging.arthuronline.co.uk/robottester",
+        "username": "robot+tester_1@firecreekweb.com ",
+        "password": "Qwerty66#",
+        "personalName": "Cypress Tester 1"
+    }
+
+}
